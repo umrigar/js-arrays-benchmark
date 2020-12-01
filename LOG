@@ -1,0 +1,4 @@
+$ ./js-matrix-transpose-benchmark.js 
+{ JSMatrix: 1341, BufMatrix: 263, WasmMatrix: 287 }
+$
+
