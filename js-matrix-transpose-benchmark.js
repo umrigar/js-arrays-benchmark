@@ -77,6 +77,7 @@ class BufMatrix {
   }
 }
 
+//<http://shockry.blogspot.com/2017/04/webassembly-sending-javascript-array-to.html>
 class WasmMatrix {
   constructor(wasm) {
     this.name = 'WasmMatrix';
